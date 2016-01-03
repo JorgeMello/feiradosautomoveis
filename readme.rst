@@ -1,70 +1,64 @@
 ###################
-What is CodeIgniter
+O que é FeiraDosautomoveis.com.br
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+FeiraDosautomoveis.com.br é um aplicativo desenvolvido usando o framework CodeIgniter e Bootstrap.
+Aplicativo para venda de carros é o cargo chefe.
+Clientes são exclusivamente participantes das feiras de automóveis de Porto Alegre
 
 *******************
-Release Information
+Compromisso
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
+Disponibilizar de forma simples e rápida, as fotos e dados de todos os veículos participantes do Feirão do automóvel e da Big Feira
+`Visite agora: <http://www.feiradosautomoveis.com.br>`_.
 
 **************************
-Changelog and New Features
+Localização e horário
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+Todos os domingos pela manhã na Avenida Sertório, 6800 em Porto Alegre `Veja todos os veículos para venda do Feirão do Automóvel deste domingo <http://www.feiradosautomoveis.com.br/ultimas-inclusoes-domingo.asp>`_.
 
 *******************
-Server Requirements
+Trabalho produzido
 *******************
 
-PHP version 5.4 or newer is recommended.
+Todos os carros estacionados no Feirão do Automóvel são fotografados (são tiradas no mínimo 3 fotos).
+Cupons com os dados do vendedor e do veículo são preenchidos pelos vendedores e recolhidos pelo fotógrafo.
+Digitação dos dados dos cupons, para disponibilizar na internet.
+Edição das fotos e envio para internet.
+Conferência dos dados digitados e os links das fotos correspondentes de todos os veículos anunciados.
 
-It should work on 5.2.4 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
 
 ************
-Installation
+Aplicativo
 ************
 
-Please see the `installation section <http://www.codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+Veja todos os veículos anunciados nas Feiras de Automóveis de Porto Alegre `Instale agora no seu smartfone: <http://www.feiradosautomoveis.com.br>`_
+simples e prático (sem uso de manual do usuário) é intuitivo.
 
 *******
-License
+Licença
 *******
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+GNU Project – Free Software Fundation
+Saiba mais: `visitando GNU <https://www.gnu.org/>`_.
 
+
+***************
+Reconhecimento pelo trabalho
+***************
+
+Este trabalho é produzido por apenas uma pessoa, tando no desenvolvimento de interfaces para o usuário (usando bootstrap), regras de negócios (usando a linguagem php), divulgação (seo e e-mail mkt), captura das fotos dos veículos e digitação dos cupons preenchidos pelos vendedores dos carros.
 *********
-Resources
+Ajudas para desenvolver software
 *********
 
--  `User Guide <http://www.codeigniter.com/docs>`_
+-  `User Guide do Codeigniter 3 <http://www.codeigniter.com/docs>`_
 -  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
 -  `Community Forums <http://forum.codeigniter.com/>`_
 -  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
 -  `Community IRC <http://www.codeigniter.com/irc>`_
 
 Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, obrigado aos usuários e compradores.
